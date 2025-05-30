@@ -6,9 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Types.fs" />
-    <Compile Include="Users.fs" />
+    <Compile Include="Type.fs" />
+    <Compile Include="User.fs" />
     <Compile Include="Location.fs" />
+    <Compile Include="Trip.fs" />
   </ItemGroup>
 
 </Project>
